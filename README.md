@@ -1,2 +1,2 @@
-# Azure-Honeypot-Lab - Configured Using Terraform
+# Azure Honeypot Lab - Configured Using Terraform
 
