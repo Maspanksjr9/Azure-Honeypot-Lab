@@ -1,2 +1,2 @@
-# Azure-Honeypot-Lab
-IaC Template for Azure Honeypot Lab
+# Azure-Honeypot-Lab - Configured Using Terraform
+
